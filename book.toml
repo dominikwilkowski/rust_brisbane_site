@@ -1,0 +1,9 @@
+[book]
+title = "Rust Brisbane Meetup"
+description = "A community-driven IRL meetup for Rust enthusiasts in Brisbane, Australia."
+authors = ["Dominik Wilkowski"]
+language = "en"
+
+[output.html]
+no-section-label = true
+preferred-dark-theme = "navy"
