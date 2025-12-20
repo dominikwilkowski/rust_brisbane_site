@@ -1,6 +1,8 @@
 # Speaking at Rust Brisbane
 
-Who would like to speak at Rust Brisbane?
+Are you considering speaking at Rust Brisbane?
+
+## Inspiration
 
 Maybe you’d like to talk about:
 - deep dives into a project you did
