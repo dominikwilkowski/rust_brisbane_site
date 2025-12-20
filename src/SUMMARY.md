@@ -25,4 +25,4 @@
 -----------
 
 - [I want to speak](./i_want_to_speak.md)
-- [Code of conduct]()
+- [Code of conduct](./code_of_conduct.md)
