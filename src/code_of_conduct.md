@@ -73,7 +73,7 @@ refund in the case of a paid event).
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a
 [community organizer](https://www.meetup.com/Rust-Brisbane/members/?op=leaders) as soon as possible:
-[hi@dominik-wilkowski.com](mailto:hi@dominik-wilkowski.com).
+[rust_brisbane@dominik-wilkowski.com](mailto:rust_brisbane@dominik-wilkowski.com).
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to
 otherwise help those experiencing unacceptable behavior feel safe.
@@ -97,7 +97,7 @@ members.
 
 ## 9. Contact info
 
-[hi@dominik-wilkowski.com](mailto:hi@dominik-wilkowski.com)
+[rust_brisbane@dominik-wilkowski.com](mailto:rust_brisbane@dominik-wilkowski.com)
 
 ## 10. License and attribution
 
