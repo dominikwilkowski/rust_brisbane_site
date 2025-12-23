@@ -26,14 +26,14 @@ jobs:
       - name: Update rust toolchain
         run: rustup update --no-self-update
 
+      - name: Install mdBook
+        run: cargo install mdbook
+
       - name: Cache Rust dependencies
         uses: Swatinem/rust-cache@23bce251a8cd2ffc3c1075eaa2367cf899916d84 # pin@v2
         with:
           prefix-key: rust-v0
           key: rust-${{ runner.os }}
-
-      - name: Install mdBook
-        run: cargo install mdbook
 
       - name: Generate pages
         run: mdbook build

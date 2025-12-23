@@ -26,5 +26,6 @@ I’d love to hear from newbies, people who just started out on rust and what th
 
 The format depends on your topic and content and can be guided by you.
 
-If you’re keen or have questions please send me an email to [hi@dominik-wilkowski.com](mailto:hi@dominik-wilkowski.com).
+If you’re keen or have questions please send me an email to
+[rust_brisbane@dominik-wilkowski.com](mailto:rust_brisbane@dominik-wilkowski.com).
 We can work things out together and I'm also happy to help you with your presentation.
