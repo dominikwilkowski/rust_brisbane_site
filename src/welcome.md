@@ -14,3 +14,5 @@ All experience levels are welcome, and first-time speakers are absolutely encour
 If you’ve got something you’re excited about (or stuck on), we’d love to hear it.
 
 Come along and say hi.
+
+_(This site is open source and can be contributed to on [GitHub](https://github.com/dominikwilkowski/rust_brisbane_site))_
