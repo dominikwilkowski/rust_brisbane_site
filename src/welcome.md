@@ -5,7 +5,8 @@
 Rust Brisbane is a friendly, inclusive meetup for anyone curious about Rust, whether you’re just getting started or
 you’ve been shipping it in production for years.
 
-We aim to meet every second Thursday of the month to hang out, learn, and share what we’re building.
+We aim to meet every second Thursday of the month (sometimes it's a Wednesday depending on availability of our location)
+to hang out, learn, and share what we’re building.
 Talks are intentionally wide-ranging: show off your project or hobby, walk us through a bug you hunted down,
 share a performance win, a tricky lesson, a neat crate, or what you discovered exploring other languages
 and bringing ideas back to Rust. [I want to speak &rarr;](./i_want_to_speak.md)
