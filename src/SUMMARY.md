@@ -4,8 +4,7 @@
 
 # Future Events
 
-- [09th Apr 2026](./events/2026-04-09.md)
-- [06th May 2026]()
+- [06th May 2026](./events/2026-05-06.md)
 - [11th Jun 2026]()
 - [09th Jul 2026]()
 - [13th Aug 2026]()
@@ -18,6 +17,7 @@
 
 # Past Events
 
+- [09th Apr 2026](./events/2026-04-09.md)
 - [12th Mar 2026](./events/2026-03-12.md)
 - [11th Feb 2026](./events/2026-02-11.md)
 - [11th Dec 2025](./events/2025-12-11.md)
