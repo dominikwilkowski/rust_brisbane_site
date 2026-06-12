@@ -11,7 +11,7 @@ permissions:
 
 concurrency:
   group: "pages"
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   deploy:
@@ -23,17 +23,10 @@ jobs:
       - name: Checkout site source
         uses: actions/checkout@v4
 
-      - name: Update rust toolchain
-        run: rustup update --no-self-update
-
       - name: Install mdBook
-        run: cargo install mdbook
-
-      - name: Cache Rust dependencies
-        uses: Swatinem/rust-cache@23bce251a8cd2ffc3c1075eaa2367cf899916d84 # pin@v2
+        uses: taiki-e/install-action@7a79fe8c3a13344501c80d99cae481c1c9085912 # pin@v2.81.10
         with:
-          prefix-key: rust-v0
-          key: rust-${{ runner.os }}
+          tool: mdbook@0.5
 
       - name: Generate pages
         run: mdbook build
